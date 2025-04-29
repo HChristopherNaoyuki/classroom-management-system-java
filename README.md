@@ -50,7 +50,7 @@ java -jar target/classroom-management-system.jar
 - [ ] Implement edit/delete operations
 - [ ] Add data export (CSV, Excel)
 - [ ] Improve error handling
-- [ ] Improve GUI.
+- [ ] Improve GUI
 - [ ] Add more unit tests
 
 ## License
